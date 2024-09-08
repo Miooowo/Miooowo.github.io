@@ -3,13 +3,13 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to git-wiki demo!
+# 欢迎来到饥荒模组维基!
 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
 
 it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
 
-The git-wiki project is composed by 3 different repository:
+The git-wiki project is composed by 3 diffe
 
 - [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
 
