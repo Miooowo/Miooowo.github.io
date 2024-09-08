@@ -1,8 +1,8 @@
 # (string) Title of your wiki
-title: git-wiki
-demo_ver: 1.0.23
+title: 饥荒模组维基
+demo_ver: 0.0.1
 remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
+description: 饥荒模组介绍页的引导整理
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
@@ -12,7 +12,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
+logo_url: assets/images/Sanity_Meter.png
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
